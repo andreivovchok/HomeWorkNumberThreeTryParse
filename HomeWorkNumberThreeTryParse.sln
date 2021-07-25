@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkNumberThreeTryParse", "HomeWorkNumberThreeTryParse\HomeWorkNumberThreeTryParse.csproj", "{1AB3B730-3E9F-4B0A-9079-D8FDFA8B873B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWorkNumberThreeTryParse", "HomeWorkNumberThreeTryParse\HomeWorkNumberThreeTryParse.csproj", "{1AB3B730-3E9F-4B0A-9079-D8FDFA8B873B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkNumberThree", "HomeWorkNumberThree\HomeWorkNumberThree.csproj", "{61E46B74-95A4-46AC-A0EA-652C16670E7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1AB3B730-3E9F-4B0A-9079-D8FDFA8B873B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AB3B730-3E9F-4B0A-9079-D8FDFA8B873B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AB3B730-3E9F-4B0A-9079-D8FDFA8B873B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E46B74-95A4-46AC-A0EA-652C16670E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E46B74-95A4-46AC-A0EA-652C16670E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E46B74-95A4-46AC-A0EA-652C16670E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E46B74-95A4-46AC-A0EA-652C16670E7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
